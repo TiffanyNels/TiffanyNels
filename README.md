@@ -2,7 +2,7 @@
 Hey! I'm Tiffany, a self-taught web developer and digital artist in Johannesburg, South Africa, passionate about crafting visually stunning websites and illustrations.
 <be>
 <ul>
- <li> I'm currently working on my website portfolio</li>
+ <li> I'm currently working on my portfolio website</li>
  <li> I'm currently learning ReactJS</li>
  <li> Fun fact: I love long-distance running and kitties 😸</li>
 </ul>
