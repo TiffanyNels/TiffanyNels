@@ -3,7 +3,7 @@ Hey! I'm Tiffany, a self-taught web developer and digital artist in Johannesburg
 <be>
 <ul>
  <li> I'm currently working on my portfolio website</li>
- <li> I'm currently learning ReactJS</li>
+ <li> I'm currently learning ReactJS and Redux</li>
  <li> Fun fact: I love long-distance running and kitties 😸</li>
 </ul>
  <be>
