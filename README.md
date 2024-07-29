@@ -4,7 +4,7 @@ Hey! I'm Tiffany, a self-taught web developer and digital artist in Johannesburg
 <ul>
  <li> I'm currently working on my portfolio website</li>
  <li> I'm currently learning JavaScript, ReactJS and jQuery</li>
- <li> Fun fact: I love long-distance running and kitties 😸</li>
+ <li> Fun fact: I love long-distance running and kitties 😸</li> 
 </ul>
  <be>
    
