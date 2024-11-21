@@ -1,9 +1,9 @@
 # About Me:
-Hey! I'm Tiffany, a self-taught web developer and digital artist in Johannesburg, South Africa, passionate about crafting visually stunning websites and illustrations. 
+Hey! I'm Tiffany, a self-taught web developer and digital artist in Johannesburg, South Africa, passionate about crafting visually stunning, functioning websites and illustrations. 
 <be>
 <ul> 
- <li> I'm currently working on my portfolio website</li>
- <li> I'm currently learning JavaScript, ReactJS and jQuery</li>
+ <li> I'm currently working on my capstone projects</li>
+ <li> I'm currently learning PostgreSQL, REST APIs and ReactJS</li>
  <li> Fun fact: I love long-distance running </li>
 </ul> 
  <be> 
