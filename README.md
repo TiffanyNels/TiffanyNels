@@ -1,4 +1,4 @@
-# Hi, I'm Tiffany.
+# Hi, I'm Tiffany
 
 I'm a Software Developer based in Windhoek, Namibia. I specialize in building responsive, design-led web applications and automating internal workflows to improve business efficiency.
 
