@@ -4,7 +4,7 @@ I'm a Software Developer based in Windhoek, Namibia. I specialise in building re
 using **React.js** and **Node.js**, and automating internal workflows 
 to improve business efficiency.
 
-- I’m currently developing a **ticketless number plate scanning system** for commercial and residential use.
+- I’m currently developing a **ticketless number plate scanning system**, using **Python** for commercial and residential use.
 - I have professional experience building **central management systems** that handle financial exchanges and internal workflows.
 - I bridge the gap between design and code, using **Figma and Adobe Photoshop** to create modern, minimalist user interfaces.
   
