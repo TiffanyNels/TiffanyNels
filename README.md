@@ -1,6 +1,8 @@
 # Hi, I'm Tiffany
 
-I'm a Software Developer based in Windhoek, Namibia. I specialize in building responsive, design-led web applications and automating internal workflows to improve business efficiency.
+I'm a Software Developer based in Windhoek, Namibia. I specialise in building responsive, design-led web applications 
+using **React.js** and **Node.js**, and automating internal workflows 
+to improve business efficiency.
 
 - I’m currently developing a **ticketless number plate scanning system** for commercial and residential use.
 - I have professional experience building **central management systems** that handle financial exchanges and internal workflows.
